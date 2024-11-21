@@ -1,6 +1,9 @@
 # Team-Ubahn
+
+Data located in OSF: https://osf.io/e5tr4/?view_only=269bbd0b3dd34ea6955c23e064f2ee4f
+
+
 What to Include in your README
-kljkj
 1. Project's Title
 This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
 
