@@ -17,6 +17,7 @@ The quality of a README description often differentiates a good project from a b
 What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
+
 3. Table of Contents (Optional)
 If your README is very long, you might want to add a table of contents to make it easy for users to navigate to different sections easily. It will make it easier for readers to move around the project with ease.
 
