@@ -1,0 +1,8 @@
+,Participant,Condition,SCR_Peak_Count,Mean_Amplitude
+0,sub-01,empty_bright,24,0.11499745819332592
+1,sub-01,empty_dark,4,0.03338056185003442
+2,sub-01,full_bright,34,0.28730487771300767
+3,sub-01,full_dark,27,0.1269923555260667
+4,sub-02,empty_bright,5,0.025253959426285222
+5,sub-02,full_bright,17,0.05045297613805603
+6,sub-02,full_dark,12,0.28554658927410176
